@@ -1,0 +1,293 @@
+{
+ "encode": [
+  {
+   "bytes": "",
+   "z32": ""
+  },
+  {
+   "bytes": "02",
+   "z32": "ye"
+  },
+  {
+   "bytes": "0ffa",
+   "z32": "b97y"
+  },
+  {
+   "bytes": "b28567",
+   "z32": "sknsq"
+  },
+  {
+   "bytes": "773d8dba",
+   "z32": "qh6a5qo"
+  },
+  {
+   "bytes": "4227c38432",
+   "z32": "eeuh8bb1"
+  },
+  {
+   "bytes": "5e4b884bfa3f",
+   "z32": "m3fao1948h"
+  },
+  {
+   "bytes": "e03024274a8cc3",
+   "z32": "hyanej4ktubo"
+  },
+  {
+   "bytes": "13e98d9faef79feb",
+   "z32": "nxwa587q66x6s"
+  },
+  {
+   "bytes": "d30a2c5b6c0516c45e",
+   "z32": "4cfnas5cywmcezo"
+  },
+  {
+   "bytes": "6d77f2b4b0545b2322e9",
+   "z32": "pi59fpfoktp1gezj"
+  },
+  {
+   "bytes": "5230a1560bafeb8cd3a7eb",
+   "z32": "keakniomi9ia3w787c"
+  },
+  {
+   "bytes": "1d87a6e4f5d698f6f78cd101",
+   "z32": "dsd4p38i44cxp7hc4ryo"
+  },
+  {
+   "bytes": "8453b98cc1fa8ed26ea4bd8d4f",
+   "z32": "otj5udgb9k8pr5irzsgw6"
+  },
+  {
+   "bytes": "3c0206f1d5a1039e98b7fe47fca6",
+   "z32": "8obyphqiwrb37gfz93d93jo"
+  },
+  {
+   "bytes": "ce9fd423fe8191296535d0dcbca8fd",
+   "z32": "34x7ee96oge113ji4dqm3k87"
+  },
+  {
+   "bytes": "9bbcf47d3a95cbda308e7a862e40707a",
+   "z32": "uq6xe9j41zf7wcrqxkdnhodoxe"
+  },
+  {
+   "bytes": "2b002c061be0fb0f2c677fbb5e5ccab5cc",
+   "z32": "fcynabo5hd7o6md8x67ihzgkszgy"
+  },
+  {
+   "bytes": "87cc69904a86c61440d3d3c66e5beb405c7a",
+   "z32": "o9ggurnko5dbeogu4xdghs9mebq8w"
+  },
+  {
+   "bytes": "d467f98d6f56894be292fcd77e6fb2ee8ca829",
+   "z32": "4tu9udmxk4rwzaw19umzh57174gkoke"
+  },
+  {
+   "bytes": "b1649cdb624b17aebbf6514211b8edc8d4f639fa",
+   "z32": "sf1j3s5njcm47q9skfbbdq8p3dkxcqx4"
+  },
+  {
+   "bytes": "488964b6c29fb99f9845d47b23b8768f8de3f3271a",
+   "z32": "jnrsjpsnu6h39gnf4t718qdst6g68h38de"
+  },
+  {
+   "bytes": "498664e8db87e8477eedadcb55e8f8d7002ac01a15e9",
+   "z32": "jgdgj4g5o9wrq9zpizfim48a4hynioy4nzwo"
+  },
+  {
+   "bytes": "459643cbb80e72fa151561cab0457f1b7b6f8b2bc54db1",
+   "z32": "esmr817ab33xwfeic8fmytm9dp7s9n3maig5n"
+  },
+  {
+   "bytes": "d5092eb7e448d7a452181bfdb1418412846dc729bd2b3d34",
+   "z32": "4wr17p9rjdm4ewoadx65nocrnkng5t3jzwiu4py"
+  },
+  {
+   "bytes": "e10708f0eb7b93b42b841398b8d811915e0eeb45274858cbd2",
+   "z32": "hrdoth8mxqj5ekhrnqcmtsyt1fxy744fr7rft161"
+  },
+  {
+   "bytes": "ddc6b5dda3b3b04f67a8533d7f99ac6db63dbc847064d01f8d8a",
+   "z32": "5zdmmzpdsqar637ekc6z9gpcps5d5xrrqb1py8hpte"
+  },
+  {
+   "bytes": "a8a0136bf1b683b150f910c372397e39daff88f12a7b2c0ab3c337",
+   "z32": "inobg49ts4b5nw83ndbzrqm688px9n8tfj71aniuac5o"
+  },
+  {
+   "bytes": "017baa4f89f04b8db14c1aa21e8b74acd1bd93c686c09d9d99acc3b8",
+   "z32": "yf74wuhj6bfa5ckcdktb7n5wiue55r6go5yj58c3iub5o"
+  },
+  {
+   "bytes": "e0dbaca02641fe34e709bf84d3452e53b3a5541b4ff0182640bb00b601",
+   "z32": "hdp43ebge89dj3ajz6npgtjqkq34kiy5j9aboj1yzcymcye"
+  },
+  {
+   "bytes": "f982f89b62c5465ea9c38abd619d3f106639c329521855efe395badc0332",
+   "z32": "9gbxtg5naidf7kqdtk6sd8j9nbuduo3jkecfm59d1s7pay31"
+  },
+  {
+   "bytes": "35697627745e0201a26c4d0b70c5dd8ab8fcf655ddd1ccefb1b4524dcb57c3",
+   "z32": "giwzcj5wmabydeucjwfzbtq7tkhx371i5zeh357tstjr514zac"
+  },
+  {
+   "bytes": "0f93943d75a9e74c03937b0b0c662eadbbccc5c780ede987f2ec56e8cb7e6647",
+   "z32": "b6j3exmii8uwayhuxcfoa3tqis7h3tq8ods6ub917tmqt156c3do"
+  },
+  {
+   "bytes": "7ff5bb58c2bfa2b89ed215caea2d67bdc7826cf1fd26a83c91788b68ad9bd61931",
+   "z32": "x945ssgnz6tmt8s1nzfqwmm8zzdar58t9wukoxrtxnfstmc54acun"
+  },
+  {
+   "bytes": "dc12d051a458cf3825779b1af810a0832ccdedac082f96394e6f2b1a7ab0f2a7a978",
+   "z32": "5ojpywprmd8uojmzucpxorfyocsc55pcbyz3cqkqphitw6io6ku416y"
+  },
+  {
+   "bytes": "5a1652929ee51241127db5ee15c5f473e1d6760d3ecf255ecaad6982c7b2aa492ff2d3",
+   "z32": "memffrw6hwjrnru7szzbmtxwqxo7c7op8581kzskiiwaft71ijr19hsu"
+  },
+  {
+   "bytes": "5e7e9ed5180e43e3d3f7c974535f1779311d558842a2f2ff13edd5b5df73c9ead4572268",
+   "z32": "m39j7ieab3b68w9z3f4fgzazxrat4iceektxf9au7zk5mz5u38ipei3npy"
+  },
+  {
+   "bytes": "0f05c715376e3defb55afb52409780f4d00bdef4cc027638820e28d522258ee371e1ed5801",
+   "z32": "bhnhqfjzpa669pk49pjrbfhy6ueyzzzw3ob8cqrnbawpketft5tzdaxpmyyo"
+  },
+  {
+   "bytes": "0976f4dd7983b5c46512ab29247d8f0140fc93c8e1ac6cd975c46616d32520353bce048a588f",
+   "z32": "bf5xjzm3oq4he3e1icw1e9cxyfyx3r6ehgsg3smiatubpw3fry4uzuortjce6"
+  },
+  {
+   "bytes": "1c140abc4446aa924677632cea4dc478a9dedf50c294a9fecba05f00d1e3d1459780425b69f1ec",
+   "z32": "dokyixnre4ijrtuzccsqwuqrxnw77z4oakkku9smwbxobwxd4fn3xynnmpw9d5y"
+  },
+  {
+   "bytes": "8cbf5e90162dae598fb930ba08f8866095be64ab73325b711d3297b45516c5f1259124c02bd661fe",
+   "z32": "t19i7rysfszfud73gn7yt6rgcnk5h3fmqc3fshe7gkm5eiesaza1mrjrayi7cax6"
+  }
+ ],
+ "decode": [
+  {
+   "z32": "",
+   "bytes": ""
+  },
+  {
+   "z32": "q",
+   "bytes": "70"
+  },
+  {
+   "z32": "1k",
+   "bytes": "92"
+  },
+  {
+   "z32": "xwt",
+   "bytes": "7d22"
+  },
+  {
+   "z32": "hrrm",
+   "bytes": "e108"
+  },
+  {
+   "z32": "rncy1",
+   "bytes": "209809"
+  },
+  {
+   "z32": "6u9bwj",
+   "bytes": "f4fe1a24"
+  },
+  {
+   "z32": "hzbf9az",
+   "bytes": "e5c25fe2"
+  },
+  {
+   "z32": "3p7wpuzw",
+   "bytes": "cb7b46cef4"
+  },
+  {
+   "z32": "d657es7qq",
+   "bytes": "1fb7d45bae70"
+  },
+  {
+   "z32": "pxumo7f1nm",
+   "bytes": "6be6b874b212"
+  },
+  {
+   "z32": "tt9aasqahxf",
+   "bytes": "8c7f8c59d8e3ca"
+  },
+  {
+   "z32": "eh1a6xkquyxu",
+   "bytes": "47258f3d4e981f"
+  },
+  {
+   "z32": "fj1nttrfuzeps",
+   "bytes": "2a6428c4859dd0db"
+  },
+  {
+   "z32": "dmeshtoft3k61e",
+   "bytes": "1ad16e46058e55e920"
+  },
+  {
+   "z32": "th79adcz3gb3efo",
+   "bytes": "8f3bfc0d97c9839416"
+  },
+  {
+   "z32": "r5j13iz8p4hjmib1",
+   "bytes": "26d32cd6e76eb895d432"
+  },
+  {
+   "z32": "7k18aeffkioogz3qg",
+   "bytes": "eaa47c20a55561035f2e30"
+  },
+  {
+   "z32": "kosdt6o17uhady7ij9",
+   "bytes": "542c38fa12ecf98183b54f"
+  },
+  {
+   "z32": "r676rnpaotxowzzztpj",
+   "bytes": "27bbe209b8845f0a5ef78b52"
+  },
+  {
+   "z32": "9od59ecnoqgwp9qi7noj",
+   "bytes": "fc07bfa182838d46fdd5e8a0"
+  }
+ ],
+ "ids": [
+  {
+   "input": "buub8pjqua8xr3tuj6md4cofd9dp4iq6hn7dzeadn4dwepkkahho",
+   "key": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739"
+  },
+  {
+   "input": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739",
+   "key": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739"
+  },
+  {
+   "input": "pear://buub8pjqua8xr3tuj6md4cofd9dp4iq6hn7dzeadn4dwepkkahho",
+   "key": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739"
+  },
+  {
+   "input": "pear://buub8pjqua8xr3tuj6md4cofd9dp4iq6hn7dzeadn4dwepkkahho/some/path",
+   "key": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739"
+  },
+  {
+   "input": "0CE613B52E9E0EF266334F963D32051FC6DD55DEE0BA3BA303168744354AC739",
+   "key": "0ce613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739"
+  },
+  {
+   "input": "short",
+   "key": null
+  },
+  {
+   "input": "uub8pjqua8xr3tuj6md4cofd9dp4iq6hn7dzeadn4dwepkkahho0",
+   "key": null
+  },
+  {
+   "input": "e613b52e9e0ef266334f963d32051fc6dd55dee0ba3ba303168744354ac739zz",
+   "key": null
+  },
+  {
+   "input": "",
+   "key": null
+  }
+ ],
+ "normalized": "buub8pjqua8xr3tuj6md4cofd9dp4iq6hn7dzeadn4dwepkkahho"
+}

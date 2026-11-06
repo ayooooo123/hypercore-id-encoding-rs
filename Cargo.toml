@@ -1,0 +1,15 @@
+[package]
+name = "hypercore-id-encoding-rs"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+license = "MIT OR Apache-2.0"
+description = "z-base-32 and Hypercore key ids, byte-identical with npm z32 and hypercore-id-encoding"
+keywords = ["hypercore", "z32", "zbase32", "holepunch"]
+categories = ["encoding"]
+
+[lib]
+name = "hypercore_id_encoding"
+
+[dev-dependencies]
+serde_json = "1"
