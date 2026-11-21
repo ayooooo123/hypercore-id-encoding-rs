@@ -28,7 +28,7 @@ pub fn decode(id: &str) -> Result<[u8; 32], InvalidKey> {
     };
     let raw = match id.len() {
         52 => z32::decode(id).map_err(|_| InvalidKey)?,
-        64 => (0..64)
+        64 if id.bytes().all(|b| b.is_ascii_hexdigit()) => (0..64)
             .step_by(2)
             .map(|i| u8::from_str_radix(id.get(i..i + 2)?, 16).ok())
             .collect::<Option<Vec<u8>>>()
@@ -166,6 +166,11 @@ mod tests {
             g["normalized"].as_str().unwrap()
         );
         assert_eq!(z32::decode("yb0"), Err(z32::InvalidChar(2)));
+    }
+
+    #[test]
+    fn rejects_signed_hex() {
+        assert_eq!(decode(&format!("+0{}", "00".repeat(31))), Err(InvalidKey));
     }
 
     fn hex(b: &[u8]) -> String {
